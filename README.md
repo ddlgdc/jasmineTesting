@@ -1,2 +1,0 @@
-# jasmineTesting
-Jasmine Testing Exercise
